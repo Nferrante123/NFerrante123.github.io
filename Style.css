@@ -1,0 +1,27 @@
+
+body { background: lightblue;
+		color:orange;
+		font-size: 48pt; 
+		font-family: 'Oswald', sans-serif;
+}
+end{font-family: Batang}
+th { background: lightblue;
+		color:orange;
+		font-size: 48pt; 
+		font-family: 'Oswald', sans-serif;
+}
+
+nav li { display: inline-block;
+			border: 2px solid black;
+			padding: 10px;
+			margin: 5px;
+			background: white;
+}
+
+a { color: darkred;
+	text-decoration: none;
+}
+a:hover {color: red}
+
+title {font-weight: bold;
+		text-decoration: underline;}
